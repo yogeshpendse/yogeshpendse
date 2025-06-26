@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-I am Yogesh Pendse. A full stack developer with a forte in frontend.
+I am Yogesh Pendse. A full stack developer with a forte in frontend and knowledge of project management.
 
 **About me**
 
-- Pursing IT engineering at University of Mumbai.
+- Pursing IT Project Management at Lambton College.
+
+- I have done IT engineering at University of Mumbai.
 
 - I build projects in my freetime and try to learn new things.
 
